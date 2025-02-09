@@ -1,4 +1,5 @@
-{
+[
+    {
     "id": 1,
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
@@ -12,3 +13,4 @@
     "cover": "https://example.com/1984.jpg",
     "file_url": "https://example.com/1984.pdf"
   }
+]
