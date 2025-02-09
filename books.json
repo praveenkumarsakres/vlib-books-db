@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "cover": "https://example.com/gatsby.jpg",
+    "file_url": "https://example.com/gatsby.pdf"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "cover": "https://example.com/1984.jpg",
+    "file_url": "https://example.com/1984.pdf"
+  }
